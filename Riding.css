@@ -1,0 +1,820 @@
+#Riding {
+    color: rgb(202, 114, 0);
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+#Title1 {
+    color: brown;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+#R1 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R1:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R2 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R2:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R3 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R3:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R4 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R4:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R5 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R5:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R6 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R6:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R7 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R7:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R8 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R8:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+
+
+#R9 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R9:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#R10 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#R10:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P1 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P1:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P2 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P2:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P3 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P3:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P4 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P4:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P5 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P5:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P6 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P6:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P7 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P7:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P8 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P8:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P9 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P9:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P10 {
+    color: brown;
+    background-color: aliceblue;
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P10:hover {
+    color: #333;
+    background-color: aliceblue;
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#A {
+    color: brown;
+    text-align: center;
+    background-color: rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+
+#C1 {
+    color: brown;
+    background-color: rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C1:hover {
+    color: #333;
+    background-color: rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P11 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P11:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C2 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C2:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C3 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C3:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C4 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C4:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C5 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C5:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C6 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C6:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C7 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C7:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C8 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C8:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C9 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C9:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C10 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C10:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C11 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C11:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#C12 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#C12:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+
+#P12 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P12:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P13 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P13:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P14 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P14:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P15 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P15:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+
+#P16 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P16:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P17 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P17:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P18 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P18:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P19 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P19:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P20 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P20:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P21 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P21:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
+
+#P22 {
+    color: brown;
+    background-color:rgb(222, 192, 192);
+    padding: 12px 24px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+#P22:hover {
+    color: #333;
+    background-color:  rgb(222, 192, 192);
+    transform: scale(1.1);
+    box-shadow: 0px 4px 10px rgba(255, 255, 255, 0.3);
+}
