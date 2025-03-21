@@ -1,0 +1,70 @@
+#restaurant-list {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+#restaurant-list:hover {
+    background-color: #f4e1c1; /* A lighter shade of antiquewhite */
+    transform: scale(1.05); /* Slightly enlarge the list on hover */
+}
+
+#restaurant-list li {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#restaurant-list li:hover {
+    color: #d2691e; /* A dark brown color on hover */
+    transform: scale(1.1);
+}
+
+#restaurant-list a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color for links */
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#restaurant-list a:hover {
+    color: #d2691e; /* Change color on hover */
+    transform: scale(1.1); /* Slightly enlarge the link on hover */
+}
+
+#church-list {
+    text-align: center;
+    background-color: antiquewhite;
+    padding: 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+}
+
+
+#church-list:hover {
+    background-color: #f4e1c1; /* A lighter shade of antiquewhite */
+    transform: scale(1.05); /* Slightly enlarge the list on hover */
+}
+
+#church-list li {
+    text-decoration: none;
+    color: #333;
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#church-list li:hover {
+    color: #d2691e; /* A dark brown color on hover */
+    transform: scale(1.1);
+}
+
+#church-list a {
+    text-decoration: none; /* Remove underline from links */
+    color: #333; /* Default text color for links */
+    transition: color 0.3s ease, transform 0.3s ease;
+}
+
+#church-list a:hover {
+    color: #d2691e; /* Change color on hover */
+    transform: scale(1.1); /* Slightly enlarge the link on hover */
+}
