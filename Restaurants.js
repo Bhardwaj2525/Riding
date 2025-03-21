@@ -14,7 +14,16 @@ Ali's West Indian Roti Shop, +14165327701, 1446 Queen St W, Toronto ON, M6K 1M2
 const csvData2 = `
 Title, Churches, Phone Number, address
 West Toronto Baptist Church, +14167695237, 3049 Dundas St W, Toronto ON, M6P 1Z5
-`
+Runnymede Campus Runnymede United Church, +14167676729, 
+St. Cecilia's Catholic Church, +14167698163,
+Morningside - High Park Presbyterian Church, +14167664765,
+Keele Street Christian Church, +14167678911,
+Church of St. Martin-in-the-fields Toronto, +14167677491,
+St Joan of Arc Church, +14167621026,
+Hillsong Church - Toronto, +16473722882,
+Westminster Chapel at High Park, None,
+St. Vincent de Paul Catholic Church, +14165357646
+`;
 
 function parseCSV(csv) {
     const lines = csv.trim().split("\n");
